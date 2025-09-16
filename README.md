@@ -19,7 +19,7 @@ A home for my whitepapers and reproducible research on the Kaspa network.
     ├── rlnc_kaspa_whitepaper_v7-1.pdf
     ├── imgs/
     │   └── kaspa-nodes-iceberg.png
-    └── data/     # scripts / samples (optional)
+    └── data/     # scripts / samples
 
 ## License
 - Papers/images: **CC BY 4.0**
