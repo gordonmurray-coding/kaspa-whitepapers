@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# kaspa-whitepapers
-=======
 # Kaspa Whitepapers
 
 A home for my whitepapers and reproducible research on the Kaspa network.
